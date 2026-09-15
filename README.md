@@ -5,3 +5,6 @@ Commit 1
 
 Merge Output
 ![alt text](MergeOutput.png)
+
+Merge Conflict Resolved
+![alt text](MergeConflict.png)
