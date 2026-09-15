@@ -8,3 +8,6 @@ Merge Output
 
 Merge Conflict Resolved
 ![alt text](MergeConflict.png)
+
+Commit of utils
+![alt text](utils.png)
