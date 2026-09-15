@@ -14,3 +14,6 @@ Commit of utils
 
 Successful rebase
 ![alt text](rebase.png)
+
+Graph of commits
+![alt text](graph.png)
