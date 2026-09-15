@@ -11,3 +11,6 @@ Merge Conflict Resolved
 
 Commit of utils
 ![alt text](utils.png)
+
+Successful rebase
+![alt text](rebase.png)
